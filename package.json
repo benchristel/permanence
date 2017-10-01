@@ -1,0 +1,28 @@
+{
+  "name": "permanence",
+  "version": "0.0.0",
+  "description": "Functional helpers for immutably transforming objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/benchristel/permanence.git"
+  },
+  "keywords": [
+    "immutable",
+    "object",
+    "functional"
+  ],
+  "author": "Ben Christel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benchristel/permanence/issues"
+  },
+  "homepage": "https://github.com/benchristel/permanence#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
